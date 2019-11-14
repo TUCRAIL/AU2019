@@ -1,10 +1,20 @@
 # AU2019
 
-## Introduction
+## Class introduction
+
+Railway projects have a lot of regulations, diverse technical fields, and project members coming from many different backgrounds. These factors and many more all come together during the design process and need to be managed to make the project a success. This class will show how connecting and using design data in Civil 3D software, AutoCAD software, and Dynamo can help us meet this challenge. Attendees will see examples of how to make regulations interactive and more easily accessible, and how to transform design data depending on the required technical field or output. We will also demonstrate tools to assist the designers so they can better analyze their creations, and in doing so, motivate them to start interacting and designing in a new way.
+
+## Presenter
+Wouter Bulens
+Methods Coordinator / BIM Manager
+
+wouter.bulens@tucrail.be
+
+https://www.linkedin.com/in/wouter-bulens-11278319/
 
 ## Data
 
-In the [data](https://github.com/TUCRAIL/AU2019/tree/master/data) folder you will find the drawings and dynamo script used in the presentation. Feel free to adjust and play with them as you like.
+In the [data](https://github.com/TUCRAIL/AU2019/tree/master/data) folder you will find the drawings and dynamo scripts used in the presentation. Feel free to adjust and play with them as you like. All videos used in the presentation are also available in this folder.
 
 ## Installation
 
