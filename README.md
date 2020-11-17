@@ -25,6 +25,6 @@ The [source code](https://github.com/TUCRAIL/AU2019/tree/master/src) can be clon
 When building the solution the dll's are copied to the packages in the [Dynamo_Packages](https://github.com/TUCRAIL/AU2019/tree/master/src/Dynamo_Packages) folder.  
 
 Place the packages into this folder:  
-%APPDATA%\Autodesk\C3D 2020\Dynamo\2.4\packages
+%APPDATA%\Roaming\Autodesk\C3D 2020\Dynamo\2.4\packages
 
 Open Dynamo in AutoCAD Civil 3D 2020 to test the scripts.
